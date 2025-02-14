@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning LLM—unlearning
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me email：zxyz0051@163.com
-My name is Guo Feng, an undergraduate student of the class of 2021 at Xidian University of Science and Technology,
+My name is Guo Feng(郭枫), an undergraduate student of the class of 2021 at Xidian University of Science and Technology,
  and I will study for a master's degree at the University of Electronic Science and Technology of China in 2025.
 
 <!---
